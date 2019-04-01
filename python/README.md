@@ -3,7 +3,7 @@
 ## Funções built-in
 Funções built-in estão automaticamente disponíveis e podem ser chamadas em todo lugar do nosso código.
 
-## Print
+## print
     print (value,...,sep=’ ’, end=’\n’)
 
 - Abaixo está os três primeiros valores que a função print pode receber:
